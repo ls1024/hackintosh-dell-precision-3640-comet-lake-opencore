@@ -55,12 +55,14 @@ Update the following settings in BIOS:
 
 | Component | Tested                             |
 | --------- | ---------------------------------- |
+| Bios Ver  | 1.2.3                              |
 | CPU       | Core i7 10700                      |
 | Chipset   | Intel W480                         |
 | Graphics  | Intel UHD 630                      |
 | Ethernet  | Intel I219-LM                      |
 | NVME      | WD SN550 (2)                       |
 | Display   | Dell 2718qm 4K Monitor             |
+| VideoCard | Radeon RX 460                      |
 | Memory    | Crucial 32GBx1 DDR4 2600 MT/s      |
 | Sound     | ALC3246 (ALC256)                   |
 
