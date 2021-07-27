@@ -27,6 +27,7 @@ Nothing!
 ## Bios Settings
 
 Update the following settings in BIOS with [RU.exe](http://ruexe.blogspot.com/) or [bios-extraction-guide (Dell)](https://github.com/dreamwhite/bios-extraction-guide/tree/master/Dell)
+Note: CFG Lock off you can use the opencore tools CFGLock.efi from the main menu.
 
 | UEFI Variable | Offset | Value | Comment       |
 | ------------- | ------ | ----- | ------------- |
