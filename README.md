@@ -3,8 +3,10 @@
 ## What works
 
 * OpenCore (0.7.1)
+* OpenCore (0.8.5)
 * Supported OS
     * macOS Big Sur (up to 11.5)
+    * macOS Ventura 13.0
 * All USB Ports at full speed (USB 3.2) (via Custom USB Mapping)
 * Intel UHD Graphics 630 - 4K UHD @ 60hz (Displayport)
 * Full Metal hardware acceleration
